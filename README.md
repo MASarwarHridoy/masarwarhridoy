@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋
+I'm Hridoy
 
-<!--
-**MASarwarHridoy/masarwarhridoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I am learning C, C++ and Python  
+🚀 I love coding and Linux  
+🎯 Goal: Become a Software Developer  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- C
+- C++
+- Python
+- Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+- Email: masarwarhridoy@gmail.com
