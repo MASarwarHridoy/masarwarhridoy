@@ -13,3 +13,8 @@ I'm Hridoy
 
 ## 📫 Contact Me
 - Email: masarwarhridoy@gmail.com
+- ![C](https://img.shields.io/badge/C-Programming-blue)
+- ![C++](https://img.shields.io/badge/C++-Programming-blue)
+- ![Python](https://img.shields.io/badge/Python-Language-yellow)
+- ![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange)
+- ![Git](https://img.shields.io/badge/Git-VersionControl-red)
