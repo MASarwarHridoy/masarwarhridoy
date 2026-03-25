@@ -6,15 +6,11 @@ I'm Hridoy
 🎯 Goal: Become a Software Developer  
 
 ## 🔧 Skills
-- C
-- C++
-- Python
-- Linux
-
-## 📫 Contact Me
-- Email: masarwarhridoy@gmail.com
 - ![C](https://img.shields.io/badge/C-Programming-blue)
 - ![C++](https://img.shields.io/badge/C++-Programming-blue)
 - ![Python](https://img.shields.io/badge/Python-Language-yellow)
 - ![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange)
 - ![Git](https://img.shields.io/badge/Git-VersionControl-red)
+
+## 📫 Contact Me
+- Email: masarwarhridoy@gmail.com
